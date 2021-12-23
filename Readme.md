@@ -23,9 +23,7 @@ conda install scikit-image
 ### prepare dataset
 #### NRMMPerson
 
-To train baseline of NRMM-Person, you should download all annotation and images.
-And we will publish the dataset as soon as possible.
-
+To train baseline of NRMMPerson, you should download all annotations and images here([Google drive](), [Baidu Disk]()). 
 
 ```
 mkdir data
