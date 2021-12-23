@@ -11,7 +11,7 @@ conda install -c pytorch pytorch torchvision -y
 pip install mmcv-full --user
 # install mmdetection
 
-pip uninstall pycocotools   # sometimes need to source deactivate before, for 
+pip uninstall pycocotools
 pip install -r requirements/build.txt
 pip install -v -e . --user  # or try "python setup.py develop" if get still got pycocotools error
 ```
