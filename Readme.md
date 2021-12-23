@@ -1,6 +1,6 @@
 # Prerequisites
 
-### [Install mmdetection]
+### Install mmdetection
 ```
 conda create -n open-mmlab python=3.7 -y
 conda activate open-mmlab
