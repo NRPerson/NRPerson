@@ -23,7 +23,7 @@ conda install scikit-image
 - [note]: if your need to modified from origin mmdetection code, see [here](docs/tov/code_modify.md), otherwise do not need any other modified.
 - [note]: for more about evaluation, see [evaluation_of_tiny_object.md](docs/tov/evaluation_of_tiny_object.md)
 ### prepare dataset
-#### NRMM-Person
+#### NRMMPerson
 
 To train baseline of NRMM-Person, you should download all annotation and images.
 And we will publish the dataset as soon as possible.
@@ -37,7 +37,7 @@ ln -s ${Path_Of_NRMM-FFD} data/NRMM-FFD
 
 
 # Experiment
-## NRMM-Person
+## NRMMPerson
 
 ```shell script
 # exp1: Multi-modal baseline, 8GPU
