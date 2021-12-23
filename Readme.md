@@ -20,8 +20,6 @@ pip install -v -e . --user  # or try "python setup.py develop" if get still got 
 conda install scikit-image
 ```
 
-- [note]: if your need to modified from origin mmdetection code, see [here](docs/tov/code_modify.md), otherwise do not need any other modified.
-- [note]: for more about evaluation, see [evaluation_of_tiny_object.md](docs/tov/evaluation_of_tiny_object.md)
 ### prepare dataset
 #### NRMMPerson
 
